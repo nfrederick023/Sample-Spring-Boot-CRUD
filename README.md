@@ -12,4 +12,4 @@ Includes the following features:
 - BasicAuth for secure route management
 - Get, Post, Put, and Delete endpoints for CRUD operations
 - Unit Tests for functionality validation
-- A single, dead simple and easy to understand, Model
+- A single, easy to understand, model
